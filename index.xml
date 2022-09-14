@@ -4,8 +4,8 @@
 <INSERAT>
 <ORGANISATIONID>92605</ORGANISATIONID> 
 <INSERATID>123456</INSERATID>
-<VORSPANN>Das ist der Vorspann des Inserats</VORSPANN>
-<BERUF>Test-Inserat</BERUF>
+<VORSPANN>Das ist der ursprüngliche Vorspann des Inserats</VORSPANN>
+<BERUF>Test-Inserat DE</BERUF>
 <TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
 <PLZ>8000</PLZ>
 <ORT>Zürich</ORT>
@@ -13,10 +13,40 @@
 <RUBRIKID>:25:</RUBRIKID>
 <POSITION>:3:</POSITION>
 <BRANCHE>8</BRANCHE>
-<ANSTELLUNGSGRAD>0</ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD>10</ANSTELLUNGSGRAD>
 <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
 <ANSTELLUNGSART>:5:</ANSTELLUNGSART>
 <SPRACHE>de</SPRACHE>
+<SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+<SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+<BERUFSERFAHRUNG>:0:</BERUFSERFAHRUNG>
+<BERUFSERFAHRUNG_POSITION>:0:</BERUFSERFAHRUNG_POSITION>
+<BILDUNGSNIVEAU>:1:</BILDUNGSNIVEAU>
+<ALTER_VON>20</ALTER_VON>
+<ALTER_BIS>60</ALTER_BIS>
+<ANGEBOT></ANGEBOT> 
+<STRASSE>Albisriederstrasse 249</STRASSE>
+<GEHALT_VON></GEHALT_VON>
+<GEHALT_BIS></GEHALT_BIS>
+</INSERAT>
+</INSERATE>
+<INSERATE>
+<INSERAT>
+<ORGANISATIONID>92605</ORGANISATIONID> 
+<INSERATID>234567</INSERATID>
+<VORSPANN>Das ist der ursprüngliche Vorspann des Inserats</VORSPANN>
+<BERUF>Test-Inserat EN</BERUF>
+<TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
+<PLZ>8000</PLZ>
+<ORT>Zürich</ORT>
+<REGION>:3:</REGION>
+<RUBRIKID>:25:</RUBRIKID>
+<POSITION>:3:</POSITION>
+<BRANCHE>8</BRANCHE>
+<ANSTELLUNGSGRAD>10</ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART>:5:</ANSTELLUNGSART>
+<SPRACHE>en</SPRACHE>
 <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
 <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
 <BERUFSERFAHRUNG>:0:</BERUFSERFAHRUNG>
