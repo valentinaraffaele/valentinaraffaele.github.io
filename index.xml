@@ -5,17 +5,17 @@
 <ORGANISATIONID>92605</ORGANISATIONID> 
 <INSERATID>123456</INSERATID>
 <VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
-<BERUF>Test-Inserat mit Strasse ohne Berufserfahrung</BERUF>
+<BERUF>Test-Inserat mit Strasse - Test 3</BERUF>
 <TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
 <PLZ>8000</PLZ>
 <ORT>Zürich</ORT>
 <REGION>:3:</REGION>
 <RUBRIKID>:25:</RUBRIKID>
 <POSITION>:3:</POSITION>
-<BRANCHE>8</BRANCHE>
-<ANSTELLUNGSGRAD>10</ANSTELLUNGSGRAD>
-<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-<ANSTELLUNGSART>:5:</ANSTELLUNGSART>
+<BRANCHE></BRANCHE>
+<ANSTELLUNGSGRAD></ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS></ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART></ANSTELLUNGSART>
 <SPRACHE>de</SPRACHE>
 <SPRACHKENNTNIS_KANDIDAT></SPRACHKENNTNIS_KANDIDAT>
 <SPRACHKENNTNIS_NIVEAU></SPRACHKENNTNIS_NIVEAU>
@@ -35,17 +35,17 @@
 <ORGANISATIONID>92605</ORGANISATIONID> 
 <INSERATID>234567</INSERATID>
 <VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
-<BERUF>Test-Inserat ohne Strasse ohne Berufserfahrung</BERUF>
+<BERUF>Test-Inserat ohne Strasse - Test 3</BERUF>
 <TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
 <PLZ>8000</PLZ>
 <ORT>Zürich</ORT>
 <REGION>:3:</REGION>
 <RUBRIKID>:25:</RUBRIKID>
 <POSITION>:3:</POSITION>
-<BRANCHE>8</BRANCHE>
-<ANSTELLUNGSGRAD>10</ANSTELLUNGSGRAD>
-<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-<ANSTELLUNGSART>:5:</ANSTELLUNGSART>
+<BRANCHE></BRANCHE>
+<ANSTELLUNGSGRAD></ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS></ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART></ANSTELLUNGSART>
 <SPRACHE>en</SPRACHE>
 <SPRACHKENNTNIS_KANDIDAT></SPRACHKENNTNIS_KANDIDAT>
 <SPRACHKENNTNIS_NIVEAU></SPRACHKENNTNIS_NIVEAU>
