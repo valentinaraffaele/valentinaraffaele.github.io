@@ -2,61 +2,216 @@
 <JOBS>
 <INSERATE>
 <INSERAT>
-<ORGANISATIONID>92605</ORGANISATIONID> 
+<ORGANISATIONID>109746</ORGANISATIONID> 
 <INSERATID>123456</INSERATID>
 <VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
-<BERUF>Test-Inserat mit Strasse - Test 3</BERUF>
+<BERUF>Test 1 - Alle Felder / befüllt</BERUF>
 <TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
+<STRASSE>Albisriederstrasse 253</STRASSE>
 <PLZ>8000</PLZ>
 <ORT>Zürich</ORT>
+<KONTAKT>Valentina Raffaele, HR Kontakt</KONTAKT>
+<EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
+<URL>www.jobcloud.ch</URL>
 <REGION>:3:</REGION>
 <RUBRIKID>:25:</RUBRIKID>
 <POSITION>:3:</POSITION>
-<BRANCHE></BRANCHE>
-<ANSTELLUNGSGRAD></ANSTELLUNGSGRAD>
-<ANSTELLUNGSGRAD_BIS></ANSTELLUNGSGRAD_BIS>
-<ANSTELLUNGSART></ANSTELLUNGSART>
+<BRANCHE>3</BRANCHE>
+<ANSTELLUNGSGRAD>80</ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART>:1:</ANSTELLUNGSART>
 <SPRACHE>de</SPRACHE>
-<SPRACHKENNTNIS_KANDIDAT></SPRACHKENNTNIS_KANDIDAT>
-<SPRACHKENNTNIS_NIVEAU></SPRACHKENNTNIS_NIVEAU>
-<BERUFSERFAHRUNG></BERUFSERFAHRUNG>
-<BERUFSERFAHRUNG_POSITION></BERUFSERFAHRUNG_POSITION>
+<SPRACHKENNTNIS_KANDIDAT>:1:3:</SPRACHKENNTNIS_KANDIDAT>
+<SPRACHKENNTNIS_NIVEAU>:3:3:</SPRACHKENNTNIS_NIVEAU>
+<BERUFSERFAHRUNG>:12:43:</BERUFSERFAHRUNG>
+<BERUFSERFAHRUNG_POSITION>:2:2:</BERUFSERFAHRUNG_POSITION>
 <BILDUNGSNIVEAU>:1:</BILDUNGSNIVEAU>
 <ALTER_VON>20</ALTER_VON>
 <ALTER_BIS>60</ALTER_BIS>
 <ANGEBOT>51</ANGEBOT> 
-<STRASSE>Albisriederstrasse 249</STRASSE>
-<GEHALT_VON></GEHALT_VON>
-<GEHALT_BIS></GEHALT_BIS>
+<GEHALT_VON>5000</GEHALT_VON>
+<GEHALT_BIS>8000</GEHALT_BIS>
 </INSERAT>
-</INSERATE>
-<INSERATE>
 <INSERAT>
-<ORGANISATIONID>92605</ORGANISATIONID> 
+<ORGANISATIONID>109746</ORGANISATIONID> 
 <INSERATID>234567</INSERATID>
 <VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
-<BERUF>Test-Inserat ohne Strasse - Test 3</BERUF>
+<BERUF>Test 2 - Alle Felder / gelöschte Felder nicht befüllt</BERUF>
 <TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
+<STRASSE>Albisriederstrasse 253</STRASSE>
 <PLZ>8000</PLZ>
 <ORT>Zürich</ORT>
+<KONTAKT>Valentina Raffaele, HR Kontakt</KONTAKT>
+<EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
+<URL>www.jobcloud.ch</URL>
 <REGION>:3:</REGION>
 <RUBRIKID>:25:</RUBRIKID>
 <POSITION>:3:</POSITION>
-<BRANCHE></BRANCHE>
-<ANSTELLUNGSGRAD></ANSTELLUNGSGRAD>
-<ANSTELLUNGSGRAD_BIS></ANSTELLUNGSGRAD_BIS>
-<ANSTELLUNGSART></ANSTELLUNGSART>
-<SPRACHE>en</SPRACHE>
-<SPRACHKENNTNIS_KANDIDAT></SPRACHKENNTNIS_KANDIDAT>
-<SPRACHKENNTNIS_NIVEAU></SPRACHKENNTNIS_NIVEAU>
+<BRANCHE>3</BRANCHE>
+<ANSTELLUNGSGRAD>80</ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+<SPRACHE>de</SPRACHE>
+<SPRACHKENNTNIS_KANDIDAT>:1:3:</SPRACHKENNTNIS_KANDIDAT>
+<SPRACHKENNTNIS_NIVEAU>:3:3:</SPRACHKENNTNIS_NIVEAU>
+<BERUFSERFAHRUNG></BERUFSERFAHRUNG>
+<BERUFSERFAHRUNG_POSITION></BERUFSERFAHRUNG_POSITION>
+<BILDUNGSNIVEAU></BILDUNGSNIVEAU>
+<ALTER_VON></ALTER_VON>
+<ALTER_BIS></ALTER_BIS>
+<ANGEBOT>51</ANGEBOT> 
+<GEHALT_VON>5000</GEHALT_VON>
+<GEHALT_BIS>8000</GEHALT_BIS>
+</INSERAT>
+<INSERAT>
+<ORGANISATIONID>109746</ORGANISATIONID> 
+<INSERATID>345678</INSERATID>
+<VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
+<BERUF>Test 3 - Ohne gelöschte Felder</BERUF>
+<TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
+<STRASSE>Albisriederstrasse 253</STRASSE>
+<PLZ>8000</PLZ>
+<ORT>Zürich</ORT>
+<KONTAKT>Valentina Raffaele, HR Kontakt</KONTAKT>
+<EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
+<URL>www.jobcloud.ch</URL>
+<REGION>:3:</REGION>
+<RUBRIKID>:25:</RUBRIKID>
+<POSITION>:3:</POSITION>
+<BRANCHE>3</BRANCHE>
+<ANSTELLUNGSGRAD>80</ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+<SPRACHE>de</SPRACHE>
+<SPRACHKENNTNIS_KANDIDAT>:1:3:</SPRACHKENNTNIS_KANDIDAT>
+<SPRACHKENNTNIS_NIVEAU>:3:3:</SPRACHKENNTNIS_NIVEAU>
+<ANGEBOT>51</ANGEBOT> 
+<GEHALT_VON>5000</GEHALT_VON>
+<GEHALT_BIS>8000</GEHALT_BIS>
+</INSERAT>
+<INSERAT>
+<ORGANISATIONID>109746</ORGANISATIONID> 
+<INSERATID>456789</INSERATID>
+<VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
+<BERUF>Test 4 - Alle Felder / teilweise befüllt (ohne Berufserfahrung)</BERUF>
+<TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
+<STRASSE>Albisriederstrasse 253</STRASSE>
+<PLZ>8000</PLZ>
+<ORT>Zürich</ORT>
+<KONTAKT>Valentina Raffaele, HR Kontakt</KONTAKT>
+<EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
+<URL>www.jobcloud.ch</URL>
+<REGION>:3:</REGION>
+<RUBRIKID>:25:</RUBRIKID>
+<POSITION>:3:</POSITION>
+<BRANCHE>3</BRANCHE>
+<ANSTELLUNGSGRAD>80</ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+<SPRACHE>de</SPRACHE>
+<SPRACHKENNTNIS_KANDIDAT>:1:3:</SPRACHKENNTNIS_KANDIDAT>
+<SPRACHKENNTNIS_NIVEAU>:3:3:</SPRACHKENNTNIS_NIVEAU>
 <BERUFSERFAHRUNG></BERUFSERFAHRUNG>
 <BERUFSERFAHRUNG_POSITION></BERUFSERFAHRUNG_POSITION>
 <BILDUNGSNIVEAU>:1:</BILDUNGSNIVEAU>
 <ALTER_VON>20</ALTER_VON>
 <ALTER_BIS>60</ALTER_BIS>
 <ANGEBOT>51</ANGEBOT> 
-<GEHALT_VON></GEHALT_VON>
-<GEHALT_BIS></GEHALT_BIS>
+<GEHALT_VON>5000</GEHALT_VON>
+<GEHALT_BIS>8000</GEHALT_BIS>
+</INSERAT>
+<INSERAT>
+<ORGANISATIONID>109746</ORGANISATIONID> 
+<INSERATID>456789</INSERATID>
+<VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
+<BERUF>Test 4 - Alle Felder / teilweise befüllt (ohne Berufserfahrung und ALTER_VON)</BERUF>
+<TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
+<STRASSE>Albisriederstrasse 253</STRASSE>
+<PLZ>8000</PLZ>
+<ORT>Zürich</ORT>
+<KONTAKT>Valentina Raffaele, HR Kontakt</KONTAKT>
+<EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
+<URL>www.jobcloud.ch</URL>
+<REGION>:3:</REGION>
+<RUBRIKID>:25:</RUBRIKID>
+<POSITION>:3:</POSITION>
+<BRANCHE>3</BRANCHE>
+<ANSTELLUNGSGRAD>80</ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+<SPRACHE>de</SPRACHE>
+<SPRACHKENNTNIS_KANDIDAT>:1:3:</SPRACHKENNTNIS_KANDIDAT>
+<SPRACHKENNTNIS_NIVEAU>:3:3:</SPRACHKENNTNIS_NIVEAU>
+<BERUFSERFAHRUNG></BERUFSERFAHRUNG>
+<BERUFSERFAHRUNG_POSITION></BERUFSERFAHRUNG_POSITION>
+<BILDUNGSNIVEAU>:1:</BILDUNGSNIVEAU>
+<ALTER_VON></ALTER_VON>
+<ALTER_BIS>60</ALTER_BIS>
+<ANGEBOT>51</ANGEBOT> 
+<GEHALT_VON>5000</GEHALT_VON>
+<GEHALT_BIS>8000</GEHALT_BIS>
+</INSERAT>
+<INSERAT>
+<ORGANISATIONID>109746</ORGANISATIONID> 
+<INSERATID>56789</INSERATID>
+<VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
+<BERUF>Test 5 - Alle Felder (ohne Kontakt, nur Mail) </BERUF>
+<TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
+<STRASSE>Albisriederstrasse 253</STRASSE>
+<PLZ>8000</PLZ>
+<ORT>Zürich</ORT>
+<KONTAKT></KONTAKT>
+<EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
+<URL>www.jobcloud.ch</URL>
+<REGION>:3:</REGION>
+<RUBRIKID>:25:</RUBRIKID>
+<POSITION>:3:</POSITION>
+<BRANCHE>3</BRANCHE>
+<ANSTELLUNGSGRAD>80</ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+<SPRACHE>de</SPRACHE>
+<SPRACHKENNTNIS_KANDIDAT>:1:3:</SPRACHKENNTNIS_KANDIDAT>
+<SPRACHKENNTNIS_NIVEAU>:3:3:</SPRACHKENNTNIS_NIVEAU>
+<BERUFSERFAHRUNG>:12:43:</BERUFSERFAHRUNG>
+<BERUFSERFAHRUNG_POSITION>:2:2:</BERUFSERFAHRUNG_POSITION>
+<BILDUNGSNIVEAU>:1:</BILDUNGSNIVEAU>
+<ALTER_VON>20</ALTER_VON>
+<ALTER_BIS>60</ALTER_BIS>
+<ANGEBOT>51</ANGEBOT> 
+<GEHALT_VON>5000</GEHALT_VON>
+<GEHALT_BIS>8000</GEHALT_BIS>
+</INSERAT>
+<INSERAT>
+<ORGANISATIONID>109746</ORGANISATIONID> 
+<INSERATID>678912</INSERATID>
+<VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
+<BERUF>Test 6 - Alle Felder (ohne Mail, nur Kontakt) </BERUF>
+<TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
+<STRASSE>Albisriederstrasse 253</STRASSE>
+<PLZ>8000</PLZ>
+<ORT>Zürich</ORT>
+<KONTAKT>Valentina Raffaele, HR Kontakt</KONTAKT>
+<EMAIL></EMAIL>
+<URL>www.jobcloud.ch</URL>
+<REGION>:3:</REGION>
+<RUBRIKID>:25:</RUBRIKID>
+<POSITION>:3:</POSITION>
+<BRANCHE>3</BRANCHE>
+<ANSTELLUNGSGRAD>80</ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+<SPRACHE>de</SPRACHE>
+<SPRACHKENNTNIS_KANDIDAT>:1:3:</SPRACHKENNTNIS_KANDIDAT>
+<SPRACHKENNTNIS_NIVEAU>:3:3:</SPRACHKENNTNIS_NIVEAU>
+<BERUFSERFAHRUNG>:12:43:</BERUFSERFAHRUNG>
+<BERUFSERFAHRUNG_POSITION>:2:2:</BERUFSERFAHRUNG_POSITION>
+<BILDUNGSNIVEAU>:1:</BILDUNGSNIVEAU>
+<ALTER_VON>20</ALTER_VON>
+<ALTER_BIS>60</ALTER_BIS>
+<ANGEBOT>51</ANGEBOT> 
+<GEHALT_VON>5000</GEHALT_VON>
+<GEHALT_BIS>8000</GEHALT_BIS>
 </INSERAT>
 </INSERATE>
 </JOBS>
