@@ -308,7 +308,7 @@
 </INSERAT>
 <INSERAT>
 <ORGANISATIONID>109746</ORGANISATIONID> 
-<INSERATID>543210</INSERATID>
+<INSERATID>543211</INSERATID>
 <VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
 <BERUF>Test 10 - Alle Felder (mit Mail doppelt gespeichert, ohne Kontakt) </BERUF>
 <TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
@@ -336,6 +336,37 @@
 <ANGEBOT>51</ANGEBOT> 
 <GEHALT_VON>5000</GEHALT_VON>
 <GEHALT_BIS>8000</GEHALT_BIS>
+</INSERAT>
+<INSERAT>
+<ORGANISATIONID>109746</ORGANISATIONID> 
+<INSERATID>564984748971</INSERATID>
+<VORSPANN>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </VORSPANN>
+<BERUF>Test 11 - Alle Felder leer (ausser Angebot)</BERUF>
+<TEXT>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test </TEXT>
+<STRASSE></STRASSE>
+<PLZ></PLZ>
+<ORT></ORT>
+<KONTAKT></KONTAKT>
+<EMAIL></EMAIL>
+<URL></URL>
+<REGION></REGION>
+<RUBRIKID></RUBRIKID>
+<POSITION></POSITION>
+<BRANCHE></BRANCHE>
+<ANSTELLUNGSGRAD></ANSTELLUNGSGRAD>
+<ANSTELLUNGSGRAD_BIS></ANSTELLUNGSGRAD_BIS>
+<ANSTELLUNGSART></ANSTELLUNGSART>
+<SPRACHE></SPRACHE>
+<SPRACHKENNTNIS_KANDIDAT></SPRACHKENNTNIS_KANDIDAT>
+<SPRACHKENNTNIS_NIVEAU></SPRACHKENNTNIS_NIVEAU>
+<BERUFSERFAHRUNG></BERUFSERFAHRUNG>
+<BERUFSERFAHRUNG_POSITION></BERUFSERFAHRUNG_POSITION>
+<BILDUNGSNIVEAU></BILDUNGSNIVEAU>
+<ALTER_VON></ALTER_VON>
+<ALTER_BIS></ALTER_BIS>
+<ANGEBOT>51</ANGEBOT> 
+<GEHALT_VON></GEHALT_VON>
+<GEHALT_BIS></GEHALT_BIS>
 </INSERAT>
 </INSERATE>
 </JOBS>
