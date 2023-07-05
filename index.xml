@@ -102,8 +102,8 @@
 <ORGANISATIONID>109633</ORGANISATIONID> 
 <INSERATID>758567</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Test: with codeword dogs&are&cool / no mail, with contactdetails </BERUF>
-<TEXT>codeword: dogs&are&cool </TEXT>
+<BERUF>Test: with codeword dogs*are*cool / no mail, with contactdetails </BERUF>
+<TEXT>codeword: dogs*are*cool </TEXT>
 <STRASSE>Albisriederstrasse 253</STRASSE>
 <PLZ>8047</PLZ>
 <ORT>Zürich</ORT>
