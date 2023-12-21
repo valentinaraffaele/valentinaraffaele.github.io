@@ -432,9 +432,9 @@
 </INSERAT>
 <INSERAT>
 <ORGANISATIONID>136308</ORGANISATIONID> 
-<INSERATID>88.4</INSERATID>
+<INSERATID>888.4</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Child 3 - Test 16 - Child video default / with another account video id feed</BERUF>
+<BERUF>Child 3 - Test 16 - Child video default / with another account video id 1469feed</BERUF>
 <TEXT>This is a test ad. Please don't apply.</TEXT>
 <SPRACHE>de</SPRACHE>
 <STRASSE>Albisriederstrasse</STRASSE>
@@ -459,15 +459,15 @@
 <GEHALT_BIS></GEHALT_BIS>
 <GEHALT_RATE></GEHALT_RATE>
 <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-<VIDEO>1466</VIDEO>
+<VIDEO>1469</VIDEO>
 <BANNER></BANNER>
 <LOGO></LOGO>
 </INSERAT>
 <INSERAT>
 <ORGANISATIONID>136308</ORGANISATIONID> 
-<INSERATID>99.4</INSERATID>
+<INSERATID>999.4</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Child 3 - Test 17 - Child video default / with another account banner id feed</BERUF>
+<BERUF>Child 3 - Test 17 - Child video default / with another account banner id 37816 feed</BERUF>
 <TEXT>This is a test ad. Please don't apply.</TEXT>
 <SPRACHE>de</SPRACHE>
 <STRASSE>Albisriederstrasse</STRASSE>
@@ -493,14 +493,14 @@
 <GEHALT_RATE></GEHALT_RATE>
 <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
 <VIDEO></VIDEO>
-<BANNER>38391</BANNER>
+<BANNER>37816</BANNER>
 <LOGO></LOGO>
 </INSERAT>
 <INSERAT>
 <ORGANISATIONID>136308</ORGANISATIONID> 
-<INSERATID>1000.4</INSERATID>
+<INSERATID>10800.4</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Child 3 - Test 18 - Child video default / with another account logo id feed</BERUF>
+<BERUF>Child 3 - Test 18 - Child video default / with another account logo id 498665 feed</BERUF>
 <TEXT>This is a test ad. Please don't apply.</TEXT>
 <SPRACHE>de</SPRACHE>
 <STRASSE>Albisriederstrasse</STRASSE>
@@ -527,7 +527,7 @@
 <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
 <VIDEO></VIDEO>
 <BANNER></BANNER>
-<LOGO>493554</LOGO>
+<LOGO>498665</LOGO>
 </INSERAT>
 </INSERATE>
 </JOBS>
