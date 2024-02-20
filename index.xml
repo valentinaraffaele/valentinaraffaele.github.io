@@ -106,7 +106,7 @@
             <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_1</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 5 interface logo ID</BERUF>
@@ -135,11 +135,11 @@
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
-            <LOGO>316487</LOGO>
+            <LOGO>504789</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_2</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 6 interface banner ID</BERUF>
@@ -167,12 +167,12 @@
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
-            <BANNER>18581</BANNER>
+            <BANNER>43582</BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_3</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 7 interface video ID</BERUF>
@@ -199,13 +199,13 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>1011</VIDEO>
+            <VIDEO>2133</VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_4</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 8 interface contact ID</BERUF>
@@ -235,10 +235,10 @@
             <VIDEO></VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
-            <USER_KONTAKT_ID>169276</USER_KONTAKT_ID>
+            <USER_KONTAKT_ID>257879</USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_5</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 9 interface logo URL </BERUF>
@@ -271,7 +271,7 @@
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_6</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 10 interface banner URL</BERUF>
@@ -304,7 +304,7 @@
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_7</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 11 interface video URL</BERUF>
@@ -337,7 +337,7 @@
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_8</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 12 interface logo (switch from ID to URL)</BERUF>
@@ -370,7 +370,7 @@
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_9</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 13 interface logo (switch from URL to ID)</BERUF>
@@ -403,7 +403,7 @@
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_10</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 14 interface logo ID (switch from child ID to mother ID)</BERUF>
@@ -432,11 +432,11 @@
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER> 
-            <LOGO>316460</LOGO>
+            <LOGO>504789</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>136308</ORGANISATIONID> 
+            <ORGANISATIONID>136309</ORGANISATIONID> 
             <INSERATID>V190224_11</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 15 interface logo ID (switch from URL to mother ID)</BERUF>
