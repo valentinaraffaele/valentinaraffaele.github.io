@@ -3,7 +3,7 @@
     <INSERATE>
         <INSERAT>
             <ORGANISATIONID>136309</ORGANISATIONID> 
-            <INSERATID>V030424_1</INSERATID>
+            <INSERATID>V030424_8</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 1</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
@@ -36,7 +36,7 @@
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>136308</ORGANISATIONID> 
-            <INSERATID>V030424_2</INSERATID>
+            <INSERATID>V030424_9</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 2 </BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
@@ -69,7 +69,7 @@
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>136309</ORGANISATIONID> 
-            <INSERATID>V030424_3</INSERATID>
+            <INSERATID>V030424_10</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 3</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
@@ -101,7 +101,7 @@
         </INSERAT>
         <INSERAT>   
             <ORGANISATIONID>136309</ORGANISATIONID> 
-            <INSERATID>V030424_4</INSERATID>
+            <INSERATID>V030424_11</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 4</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
@@ -135,7 +135,7 @@
         </INSERAT>
         <INSERAT>   
             <ORGANISATIONID>136309</ORGANISATIONID> 
-            <INSERATID>V030424_5</INSERATID>
+            <INSERATID>V030424_12</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 5</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
@@ -169,7 +169,7 @@
         </INSERAT>
         <INSERAT>   
             <ORGANISATIONID>137976</ORGANISATIONID> 
-            <INSERATID>V030424_6</INSERATID>
+            <INSERATID>V030424_13</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 6</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
@@ -194,7 +194,7 @@
             <GEHALT_BIS></GEHALT_BIS>
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT>13906</LAYOUT>
+            <LAYOUT>14427</LAYOUT>
             <DIREKT_URL></DIREKT_URL>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
@@ -203,7 +203,7 @@
         </INSERAT>
         <INSERAT>   
             <ORGANISATIONID>137976</ORGANISATIONID> 
-            <INSERATID>V030424_7</INSERATID>
+            <INSERATID>V030424_14</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 7</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
@@ -228,7 +228,7 @@
             <GEHALT_BIS></GEHALT_BIS>
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT>13544</LAYOUT>
+            <LAYOUT>14428</LAYOUT>
             <DIREKT_URL></DIREKT_URL>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
